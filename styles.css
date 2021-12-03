@@ -1,4 +1,18 @@
 .code-color {
   background-color: black;
   color: lawngreen;
+  font-family: serif;
+}
+
+h1 {
+  background-color: aqua;
+}
+
+html {
+  background-color: beige;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table, th, td {
+  border: 1px solid black;
 }
